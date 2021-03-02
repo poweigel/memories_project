@@ -1,0 +1,3 @@
+[submodule "memories_project"]
+	path = memories_project
+	url = https://github.com/poweigel/memories_project
